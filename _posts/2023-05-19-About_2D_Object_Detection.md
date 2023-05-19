@@ -15,7 +15,7 @@
 - Region Proposal이란?
     
      이미지에서 객체가 있을 만한 위치를 예측 및 제안하는 알고리즘으로 Selective Search, EdgeBoxes, R-CNN등의 알고리즘이 사용된다.
-     왜 안돼
+     
     
 
 ### [object_detection의 기본적인 내용 + YOLO에 대한 전반적인 내용]
