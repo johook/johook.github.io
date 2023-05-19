@@ -25,6 +25,6 @@
 
 ![YOLO-1.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/11298a31-ec05-48cb-8f4f-6b7190ad6fcd/YOLO-1.jpg)
 
-![YOLO-2.jpg](2D%20Object%20Detection%E1%84%8B%E1%85%A6%20%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%AB%20%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%87%E1%85%A1%E1%86%AB%E1%84%8C%E1%85%A5%E1%86%A8%E1%84%8B%E1%85%B5%E1%86%AB%20%E1%84%8B%E1%85%B5%E1%84%92%E1%85%A2%2009178dd95a4c4db2b41e347f885cb75f/YOLO-2.jpg)
+![YOLO-2.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1faaf4be-3b4b-4282-acbc-fa5c77bb8f0c/YOLO-2.jpg)
 
-![YOLO-3.jpg](2D%20Object%20Detection%E1%84%8B%E1%85%A6%20%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%AB%20%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%87%E1%85%A1%E1%86%AB%E1%84%8C%E1%85%A5%E1%86%A8%E1%84%8B%E1%85%B5%E1%86%AB%20%E1%84%8B%E1%85%B5%E1%84%92%E1%85%A2%2009178dd95a4c4db2b41e347f885cb75f/YOLO-3.jpg)
+![YOLO-3.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/26c5d716-2feb-482d-a373-6419bcd7b12a/YOLO-3.jpg)
