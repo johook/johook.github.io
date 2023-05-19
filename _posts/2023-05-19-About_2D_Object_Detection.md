@@ -24,6 +24,7 @@
 
  
 
-![image.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/11298a31-ec05-48cb-8f4f-6b7190ad6fcd/YOLO-1.jpg)
+![YOLO-1 (1)](https://github.com/johook/Codingtest/assets/116954375/cd180c94-507c-4b8d-ab40-d000ff00d359)
+
 
 
