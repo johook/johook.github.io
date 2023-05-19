@@ -25,6 +25,4 @@
 
 ![image.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/11298a31-ec05-48cb-8f4f-6b7190ad6fcd/YOLO-1.jpg)
 
-![YOLO-2.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1faaf4be-3b4b-4282-acbc-fa5c77bb8f0c/YOLO-2.jpg)
 
-![YOLO-3.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/26c5d716-2feb-482d-a373-6419bcd7b12a/YOLO-3.jpg)
