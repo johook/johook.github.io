@@ -25,6 +25,8 @@
  
 
 ![YOLO-1 (1)](https://github.com/johook/Codingtest/assets/116954375/cd180c94-507c-4b8d-ab40-d000ff00d359)
+![YOLO-2](https://github.com/johook/Codingtest/assets/116954375/2b32fd2d-2479-4091-a79e-f123a976e43e)
+![YOLO-3](https://github.com/johook/Codingtest/assets/116954375/4e11d8b8-4619-4aa7-ace0-197557baabc1)
 
 
 
