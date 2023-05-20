@@ -20,4 +20,4 @@ Pillar Feature Network→Backbone(2D CNN) → Detection Head (SSD)
 
 
 
-![IMG_0192](https://github.com/johook/Codingtest/assets/116954375/debf48b1-d25f-42c0-84d0-13751aa04e70)
+![IMG_0192](https://github.com/johook/Codingtest/assets/116954375/debf48b1-d25f-42c0-84d0-13751aa04e70){: width="20%" height="20%"}
