@@ -1,3 +1,11 @@
+---
+published: true
+title:  "About_2D_Object_Detection"
+
+categories: 
+  - 2D-Object_Detection
+---
+
 # 2D Object Detection에 대한 전반적인 이해
 
 - 1-stage Object Detection과 2-stage Object Detection의 가장 큰 차이
