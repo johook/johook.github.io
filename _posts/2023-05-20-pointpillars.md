@@ -1,6 +1,11 @@
 ---
-layout: post
-title:  "pointpillars"
+published: true
+
+title:  "Pointpillars"
+
+categories: 
+  - 3D-Object_Detection
+
 ---
 
 # pointpillars
