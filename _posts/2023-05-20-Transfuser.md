@@ -3,7 +3,7 @@ published: true
 title:  "Transfuser"
 
 categories: 
-  - Sensorfusion
+  - SensorFusion
 ---
 
 
