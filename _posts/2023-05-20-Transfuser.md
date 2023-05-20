@@ -1,4 +1,14 @@
-﻿# [Transfuse] Multi-Modal Fusion Transformer for End-to-EndAutonomous Driving
+---
+published: true
+title:  "Transfuser"
+
+categories: 
+  - Sensorfusion
+---
+
+
+
+# [Transfuse] Multi-Modal Fusion Transformer for End-to-EndAutonomous Driving
   
   
 ## Abstract
