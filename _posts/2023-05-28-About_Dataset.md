@@ -18,6 +18,7 @@ KaAI동아리에서 만든 Dataset은 Lidar,Camera, Can, GPS, Radar,Eyetracker �
 ##  각 센서 설명
 
 Lidar(Livox Horizon)
+
 ![image](https://github.com/johook/Data-Synchronization/assets/116954375/2ac008b7-39c9-4aa0-9be4-b23a483ef69c)
 
 |재원|Livox Horizon| 
@@ -26,10 +27,12 @@ Lidar(Livox Horizon)
 |VFOV|25.1°|
 |Point rate|240,000 pts/s|
 |Detection range|260 m|
+
 <br><br><br>
 **Camera(FLIR)**
 모델명: BFS-PGE-19S4C-C
 ![image](https://github.com/johook/Data-Synchronization/assets/116954375/79fb60e0-1285-4144-a23b-4fc43e4cc231)
+
 |재원|Livox Horizon| 
 |---|---|
 |camera resolution|1632 * 1248|
@@ -40,19 +43,25 @@ Lidar(Livox Horizon)
 |reading method|global shutter|
 |pixel size|4.5 µm|
 |ADC|12-bit|
+
 <br><br><br>
 **EyeTracker(pupil)**
+
 ![image](https://github.com/johook/Data-Synchronization/assets/116954375/ac8b4970-c372-40b5-a219-882528005816)
 <br><br><br>
 **Radar(Mobileye)**
+
 Mobileye를 통해 받을수있는 정보들
 [MobilEye (1) (2).xlsx](https://github.com/johook/Data-Synchronization/files/11584032/MobilEye.1.2.xlsx)
 
 **CAN(kvaser)**
+
 ![image](https://github.com/johook/Data-Synchronization/assets/116954375/bf8e2de7-3b63-4bbc-beba-2c28b5e67115)
 CAN을 통해 받을 수 있는 정보들 
+
 [CAN 데이터 설명 (NIRO).xlsx](https://github.com/johook/Data-Synchronization/files/11584038/CAN.NIRO.xlsx)
 <br><br><br>
+
 **GPS(Xsens)**
 제품명: MTI-G-710
 ![Untitled](https://github.com/johook/Data-Synchronization/assets/116954375/130d0fa4-7316-447c-a8a7-827f37573ad8)
