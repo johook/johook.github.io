@@ -1,7 +1,7 @@
 ---
 published: true
 
-title:  "bagfie->pcd,png"
+title:  "6_bagfie->pcd,png"
 
 categories: 
   - Create_DataSet
