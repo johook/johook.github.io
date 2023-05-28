@@ -69,7 +69,7 @@ Mobileye를 통해 받을수있는 정보들
 **GPS(Xsens)**
 제품명: MTI-G-710
 ![Untitled](https://github.com/johook/Data-Synchronization/assets/116954375/130d0fa4-7316-447c-a8a7-827f37573ad8)
-xsens를 통해 받을 수 있는 정보들 
+<br><br><br>xsens를 통해 받을 수 있는 정보들 
 [xsens_topiclist.ods](https://github.com/johook/Data-Synchronization/files/11584042/xsens_topiclist.ods)
 
 
