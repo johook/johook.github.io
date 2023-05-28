@@ -21,7 +21,8 @@ KaAI동아리에서 만든 Dataset은 Lidar,Camera, Can, GPS, Radar,Eyetracker �
 Lidar(Livox Horizon)
 <br>
 ![image](https://github.com/johook/Data-Synchronization/assets/116954375/2ac008b7-39c9-4aa0-9be4-b23a483ef69c)
-.
+<br>
+
 |재원|Livox Horizon| 
 |---|---|
 |HFOV|81.7°|
@@ -34,7 +35,8 @@ Lidar(Livox Horizon)
 모델명: BFS-PGE-19S4C-C
 <br>
 ![image](https://github.com/johook/Data-Synchronization/assets/116954375/79fb60e0-1285-4144-a23b-4fc43e4cc231)
-.
+<br>
+
 |재원|Livox Horizon| 
 |---|---|
 |camera resolution|1632 * 1248|
@@ -57,9 +59,9 @@ Mobileye를 통해 받을수있는 정보들
 [MobilEye (1) (2).xlsx](https://github.com/johook/Data-Synchronization/files/11584032/MobilEye.1.2.xlsx)
 
 **CAN(kvaser)**
-<br>
+<br><br>
 ![image](https://github.com/johook/Data-Synchronization/assets/116954375/bf8e2de7-3b63-4bbc-beba-2c28b5e67115)
-CAN을 통해 받을 수 있는 정보들 
+<br><br><br>CAN을 통해 받을 수 있는 정보들 
 
 [CAN 데이터 설명 (NIRO).xlsx](https://github.com/johook/Data-Synchronization/files/11584038/CAN.NIRO.xlsx)
 <br><br><br>
