@@ -109,7 +109,7 @@ analytics:
 # Site Author
 author:
   name             : "Jo Seok-hun"
-  avatar           : "/assets/images/jo.jpg"
+  avatar           : "/assets/images/jojo.jpeg"
   bio              : "I am a college student interested in autonomous driving. 
 My current interests are 3D anomaly detection, sensor fusion, and the Carla AD challenge! 
 I will be reading research papers related to these topics. Thank you!"
